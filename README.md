@@ -36,5 +36,5 @@
 
 ## Техническая реализация
 Реализован **стековый вычислитель** с динамическим учётом приоритета операций:
-private List<double> numbers = new List<double>();    // операнды
-private List<string> operations = new List<string>(); // операторы
+-private List<double> numbers = new List<double>();    // операнды
+-private List<string> operations = new List<string>(); // операторы
